@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Go, C++, Algorithms and Data structures
-- ⚡ Fun fact: I ❤️ 🐶s
 
 
 ## Languages and Tools:
